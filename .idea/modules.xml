@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/hrmapp.iml" filepath="$PROJECT_DIR$/hrmapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/out/artifacts/hrmapp_war_exploded/folder/examples/WEB-INF/WEB-INF.iml" filepath="$PROJECT_DIR$/out/artifacts/hrmapp_war_exploded/folder/examples/WEB-INF/WEB-INF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/out/artifacts/hrmapp_war_exploded/folder/examples/WEB-INF/jsp/jsp.iml" filepath="$PROJECT_DIR$/out/artifacts/hrmapp_war_exploded/folder/examples/WEB-INF/jsp/jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/out/artifacts/hrmapp_war_exploded/folder/examples/jsp/plugin/plugin.iml" filepath="$PROJECT_DIR$/out/artifacts/hrmapp_war_exploded/folder/examples/jsp/plugin/plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/out/artifacts/hrmapp_war_exploded/folder/docs/appdev/sample/sample.iml" filepath="$PROJECT_DIR$/out/artifacts/hrmapp_war_exploded/folder/docs/appdev/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm.iml" filepath="$PROJECT_DIR$/ssm.iml" />
     </modules>
   </component>
 </project>

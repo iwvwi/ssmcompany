@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ssm:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ssm_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ssm" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="ssm/web/Web3" />
+      <element id="javaee-facet-resources" facet="ssm/web/Web6" />
+      <element id="javaee-facet-resources" facet="ssm/web/Web4" />
+      <element id="javaee-facet-resources" facet="ssm/web/Web5" />
+      <element id="javaee-facet-resources" facet="ssm/web/Web2" />
+      <element id="javaee-facet-resources" facet="ssm/web/Web" />
+      <element id="javaee-facet-resources" facet="ssm/web/Web7" />
+      <element id="directory" name="folder">
+        <element id="dir-copy" path="$USER_HOME$/Downloads/apache-tomcat-8.5.32/webapps" />
+      </element>
+    </root>
+  </artifact>
+</component>
